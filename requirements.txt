@@ -144,6 +144,6 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.14
 xarray==2025.6.1
 xyzservices==2025.4.0
-
+fiona==1.9.5
 
 
