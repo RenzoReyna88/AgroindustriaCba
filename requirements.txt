@@ -94,7 +94,7 @@ pydeck==0.9.1
 Pygments==2.19.2
 pyogrio==0.11.1
 pyparsing==3.2.3
-pyproj==3.7.1
+# pyproj==3.7.1
 python-dateutil==2.9.1
 PyYAML==6.0.2
 pyzmq==27.0.1
