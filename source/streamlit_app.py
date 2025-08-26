@@ -45,7 +45,8 @@ class BPAVisualizer:
         self.df_bpa = df_bpa  # Guardar como atributo
 
         # Cargar shapefile
-        gdf_departamentos = gpd.read_file("source/assets/shapefile-zip/departamentos.zip")
+        # source\assets\shapefile-zip\departamentos\departamentos.shp
+        gdf_departamentos = gpd.read_file("source/assets/shapefile-zip/departamentos/departamentos.shp")
         gdf_departamentos = gdf_departamentos.to_crs("EPSG:4326")
         gdf_departamentos['coordinates'] = gdf_departamentos['geometry'].apply(lambda geom: geom.__geo_interface__['coordinates'])
         gdf_departamentos['fill_color'] = gdf_departamentos['nombre'].map(self.colores_departamento)
