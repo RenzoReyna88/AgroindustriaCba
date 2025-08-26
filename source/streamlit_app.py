@@ -198,7 +198,7 @@ class BPAVisualizer:
                     El Programa de Buenas Prácticas Agropecuarias (BPAs) de Córdoba fue establecido por la Ley N° 10.663 en octubre de 2019. 
                     Su objetivo es promover prácticas agrícolas sostenibles que mejoren la productividad y protejan el medio ambiente.
 
-                    Beneficios clave:
+                    #### Beneficios clave:
                     Uso eficiente del suelo: Incentiva técnicas como la rotación de cultivos y la siembra directa, que conservan la estructura y fertilidad del suelo.
                     Beneficios económicos: Los productores que implementan BPAs pueden acceder a aportes económicos no reintegrables como incentivo por cada práctica validada.
                     Para participar, los productores deben registrarse en la Plataforma de Servicios Ciudadano Digital (CiDi) del Gobierno de Córdoba. 
