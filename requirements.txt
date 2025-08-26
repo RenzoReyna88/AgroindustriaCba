@@ -92,7 +92,7 @@ pyarrow==11.0.0
 pycparser==2.22
 pydeck==0.9.1
 Pygments==2.19.2
-pyogrio==0.11.1
+# pyogrio==0.11.1
 pyparsing==3.2.3
 # pyproj==3.7.1
 python-dateutil==2.9.1
